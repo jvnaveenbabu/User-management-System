@@ -6,6 +6,7 @@ User Management System provides functionality to manage users and personal profi
 2. open terminal in Vs code 
    - npm install 
    - npm run dev
+4. Install XAMPP run MySQL
 3. localhost:3000
    
 ## Current functionality includes:
